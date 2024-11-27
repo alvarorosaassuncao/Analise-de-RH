@@ -13,3 +13,5 @@ Exportar Dados: O usuário pode exportar os dados filtrados em um arquivo CSV.
 Análises: O dashboard exibirá análises básicas, como contagem de valores em gráficos de barras, incluindo um gráfico que mostra os funcionários ativos e inativos com os nomes na horizontal e contagem em números inteiros.
 
 Análise de Tendências: Se os dados contiverem informações temporais (como datas de contratação e demissão), o dashboard exibirá gráficos de linha para visualizar as tendências ao longo do tempo.
+
+site: https://rh-analytcs.streamlit.app/
